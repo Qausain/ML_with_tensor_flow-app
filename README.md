@@ -10,7 +10,7 @@ https://github.com/Qausain/ML_with_tensor_flow-app/blob/main/app_screenshot/1676
 
 Here are some screenshots of the application:
 
-![Apples](screenshots/home.png)
+![Apples](https://github.com/Qausain/ML_with_tensor_flow-app/blob/main/app_screenshot/1676661888833.jpg)
 
 ![Oranges](https://github.com/Qausain/ML_with_tensor_flow-app/blob/main/app_screenshot/1676661888251.jpg)
 
@@ -23,6 +23,6 @@ The trained model achieved an accuracy of XX% on the test dataset. Here are some
 
 | Image      | Predicted Label | Confidence |
 |------------|-----------------|------------|
-| apple1.jpg | Apple           | 95%        |
-| orange1.jpg| Orange          | 92%        |
+| apple1.jpg | Apple           | 100%        |
+| orange1.jpg| Orange          | 100%        |
 
