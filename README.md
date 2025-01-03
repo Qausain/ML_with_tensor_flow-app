@@ -1,1 +1,1 @@
-# ML_with_tensor_flow-app
+# ML with TensorFlow: Classification of Apples & Oranges This project demonstrates machine learning with TensorFlow for classifying images of apples and oranges, trained using Google Teachable Machines.
