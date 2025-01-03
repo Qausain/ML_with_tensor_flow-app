@@ -5,6 +5,17 @@ Simply install the `.apk` file provided in your Android device. The file is loca
 
 `release/app-release.apk`
 
+https://github.com/Qausain/ML_with_tensor_flow-app/blob/main/app_screenshot/1676661888251.jpg
+## Screenshots
+
+Here are some screenshots of the application:
+
+![Apples](screenshots/home.png)
+
+![Oranges](https://github.com/Qausain/ML_with_tensor_flow-app/blob/main/app_screenshot/1676661888251.jpg)
+
+
+
 
 ## Results
 
