@@ -1,6 +1,9 @@
 # ML with TensorFlow: Classification of Apples & Oranges This project demonstrates machine learning with TensorFlow for classifying images of apples and oranges, trained using Google Teachable Machines.
 
 
+Simply install the `.apk` file provided on your Android device. The file is located at:
+
+`release/app-release.apk`
 
 
 ## Results
